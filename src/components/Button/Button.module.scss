@@ -11,7 +11,8 @@
   font-size: 1.25rem;
   appearance: none;
   font-weight: $font-weight-bold;
-
+  border-radius: 20px;
+  
   &.button-primary {
     color: var(--color-black);
     border-color: var(--color-black);
